@@ -24,3 +24,13 @@ h3 {
    font-family: verdana;
    font-size: 16px
 }
+
+table {
+    width: 100%;
+    text-align: center;
+
+    th, td {
+        width: 1%;
+        text-align: center;
+    }
+}
