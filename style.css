@@ -26,11 +26,13 @@ h3 {
 }
 
 table {
-    width: 100%;
-    text-align: center;
+  width: 100%;
+  border-collapse: collapse;
+}
 
-    th, td {
-        width: 1%;
-        text-align: center;
-    }
+th, td {
+  width: 33%;
+  text-align: center; 
+  border: 1px solid black; 
+  padding: 8px;
 }
